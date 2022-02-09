@@ -1,0 +1,18 @@
+﻿  BB.cpp
+D:\Na ferie\PEA P\P1\PEA_P1_Maciej_Lendzion_252714\Kod źródłowy\BB.h(24,2): warning C4091: "static ": zignorowano na lewo od "BB" podczas gdy brak deklaracji zmiennej
+D:\Na ferie\PEA P\P1\PEA_P1_Maciej_Lendzion_252714\Kod źródłowy\BB.cpp(32,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Na ferie\PEA P\P1\PEA_P1_Maciej_Lendzion_252714\Kod źródłowy\BB.cpp(102,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Na ferie\PEA P\P1\PEA_P1_Maciej_Lendzion_252714\Kod źródłowy\BB.cpp(165,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Na ferie\PEA P\P1\PEA_P1_Maciej_Lendzion_252714\Kod źródłowy\BB.cpp(172,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  BF.cpp
+D:\Na ferie\PEA P\P1\PEA_P1_Maciej_Lendzion_252714\Kod źródłowy\BF.h(19,2): warning C4091: "static ": zignorowano na lewo od "BF" podczas gdy brak deklaracji zmiennej
+  DP.cpp
+  File.cpp
+  Graph.cpp
+D:\Na ferie\PEA P\P1\PEA_P1_Maciej_Lendzion_252714\Kod źródłowy\Graph.cpp(187,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Node.cpp
+  PEA1.cpp
+C:\Users\lengo\source\repos\PEA1\PEA1\BF.h(19,2): warning C4091: "static ": zignorowano na lewo od "BF" podczas gdy brak deklaracji zmiennej
+C:\Users\lengo\source\repos\PEA1\PEA1\BB.h(24,2): warning C4091: "static ": zignorowano na lewo od "BB" podczas gdy brak deklaracji zmiennej
+  Generowanie kodu...
+  PEA1.vcxproj -> C:\Users\lengo\source\repos\PEA1\Debug\PEA1.exe
