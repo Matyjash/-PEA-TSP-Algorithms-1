@@ -6,7 +6,8 @@ The program can solve Traveling Salesman problem with three exact algorithms:
 - Dynamic Programming
 - Brute Force  
 
-It returns the optimum path and it's length. The starting node/city is always 0.
+It returns the optimum path and it's length. The starting node/city is always 0.  
+![scrn1](/sc1.jpg)
 ## Usage
 To test the program user can either generate a random graph or load one from .txt file.
 ### Txt file format
